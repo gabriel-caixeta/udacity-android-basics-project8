@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+
+    <!--Connection-->
+    <string name="no_results">No articles found</string>
+    <string name="no_internet">No connection available</string>
+
+    <!--Settings-->
+    <string name="settings_label">Article Settings</string>
+    <string name="settings_menu_item">Settings</string>
+
+    <!--Order by-->
+    <string name="settings_order_by">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/order_by_newest_value</string>
+
+    <string name="order_by_newest">Newest</string>
+    <string name="order_by_newest_value" translatable="false">newest</string>
+    <string name="order_by_oldest">Oldest</string>
+    <string name="order_by_oldest_value" translatable="false">oldest</string>
+    <string name="order_by_relevance">Relevance</string>
+    <string name="order_by_relevance_value" translatable="false">relevance</string>
+    
+    <!--Categories-->
+    <string name="settings_search_categories">Category</string>
+    <string name="settings_search_categories_key" translatable="false">category</string>
+    <string name="settings_search_categories_default" translatable="false">@string/category_world_value</string>
+
+    <string name="category_world">World</string>
+    <string name="category_world_value" translatable="false">World</string>
+    <string name="category_economics">Economics</string>
+    <string name="category_economics_value" translatable="false">economics</string>
+    <string name="category_football">Football</string>
+    <string name="category_football_value" translatable="false">Football</string>
+
+
+    <!--Sample data-->
+    <string name="article_title">Songwriters fight to be heard in streaming revenues debate</string>
+    <string name="article_author">Name Placeholder</string>
+    <string name="article_date">2021-02-12, 09:28:48</string>
+
+    <!--Fonts-->
+    <string name="font_family_light">sans-serif-light</string>
+    <string name="font_family_medium">sans-serif-medium</string>
+    <string name="font_family_regular">sans-serif</string>
+    <string name="font_family_condensed">sans-serif-condensed</string>
+    <string name="font_family_black">sans-serif-black</string>
+    <string name="font_family_thin">sans-serif-thin</string>
+
+</resources>

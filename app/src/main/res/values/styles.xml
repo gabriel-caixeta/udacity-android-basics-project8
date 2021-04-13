@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ArticleTitle">
+        <item name="android:textSize">@dimen/article_title_size</item>
+        <item name="android:fontFamily">@string/font_family_black</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="ArticleSection">
+        <item name="android:textSize">@dimen/article_author_size</item>
+        <item name="android:fontFamily">@string/font_family_light</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="ArticleOther">
+        <item name="android:textSize">@dimen/article_author_size</item>
+        <item name="android:fontFamily">@string/font_family_light</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="ErrorText">
+        <item name="android:textSize">@dimen/error_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="textAllCaps">true</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+</resources>

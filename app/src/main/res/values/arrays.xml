@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="settings_order_by_keys">
+        <item>@string/order_by_newest</item>
+        <item>@string/order_by_oldest</item>
+        <item>@string/order_by_relevance</item>
+    </array>
+
+    <array name="settings_order_by_values">
+        <item>@string/order_by_newest_value</item>
+        <item>@string/order_by_oldest_value</item>
+        <item>@string/order_by_relevance_value</item>
+    </array>
+
+    <array name="settings_category_keys">
+        <item>@string/category_world</item>
+        <item>@string/category_football</item>
+        <item>@string/category_economics</item>
+    </array>
+
+    <array name="settings_category_values">
+        <item>@string/category_world_value</item>
+        <item>@string/category_football_value</item>
+        <item>@string/category_economics_value</item>
+    </array>
+
+</resources>

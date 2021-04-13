@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="horizontal_margin">16dp</dimen>
+    <dimen name="list_item_vertical_margin">8dp</dimen>
+
+    <dimen name="list_item_height">32dp</dimen>
+
+
+    <!--Text sizes-->
+    <dimen name="article_title_size">20sp</dimen>
+    <dimen name="article_author_size">16sp</dimen>
+    <dimen name="article_date_size">16sp</dimen>
+    <dimen name="article_time_size">16sp</dimen>
+    <dimen name="error_text_size">48sp</dimen>
+
+
+
+</resources>
